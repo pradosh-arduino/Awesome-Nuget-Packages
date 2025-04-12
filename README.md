@@ -917,6 +917,12 @@ If you liked this repository or find it useful, please give it a star. Thanks!
 	[![GitHub Stars](https://img.shields.io/github/stars/spectresystems/spectre.console?label=Stars&logo=github&cacheSeconds=3600)](https://github.com/spectresystems/spectre.console)
 	[![NuGet Downloads](https://img.shields.io/nuget/dt/spectre.console?label=Downloads&logo=nuget&cacheSeconds=3600)](https://www.nuget.org/packages/spectre.console)
 
+- [**Input Buffer**](https://github.com/pradosh-arduino/buffer)
+	> A library that gives the developer better control to the user-input by leveraging the power of multi-threading. It is a replacement of `Console.ReadLine()`
+
+	[![GitHub Stars](https://img.shields.io/github/stars/pradosh-arduino/buffer?label=Stars&logo=github&cacheSeconds=3600)](https://github.com/pradosh-arduino/buffer)
+	[![NuGet Downloads](https://img.shields.io/nuget/dt/buffer?label=Downloads&logo=nuget&cacheSeconds=3600)](https://www.nuget.org/packages/buffer)
+
 ## Contribution
 Contributions are always welcome! Feel free to open an [issue][issues] or create a pull request.
 
